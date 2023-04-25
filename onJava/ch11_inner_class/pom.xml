@@ -5,14 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.yxb</groupId>
-        <artifactId>YxbStudy</artifactId>
+        <artifactId>onJava</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <packaging>pom</packaging>
-    <artifactId>onJava</artifactId>
-    <modules>
-        <module>ch11_inner_class</module>
-        <module>ch12_collection</module>
-        <module>ch13_function_program</module>
-    </modules>
+
+    <artifactId>ch11_inner_class</artifactId>
 </project>

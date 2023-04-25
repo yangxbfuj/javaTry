@@ -10,9 +10,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>onJava</module>
-        <module>onJava/c11_inner_class</module>
-        <module>onJava/ch12_collection</module>
-        <module>onJava/ch13_function_program</module>
     </modules>
 
     <properties>
