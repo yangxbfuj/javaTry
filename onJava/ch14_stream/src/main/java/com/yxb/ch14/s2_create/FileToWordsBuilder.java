@@ -1,6 +1,5 @@
 package com.yxb.ch14.s2_create;
 
-import java.io.*;
 import java.nio.file.*;
 import java.util.stream.*;
 
@@ -12,7 +11,7 @@ public class FileToWordsBuilder {
 			.forEach(line -> {
 				for(String w : line.split("[ .?,]+"))
 					builder.add(w);
-			})
+			});
 	}
 
 	Stream<String> stream(){

@@ -14,5 +14,6 @@
         <module>ch11_inner_class</module>
         <module>ch12_collection</module>
         <module>ch13_function_program</module>
+        <module>ch14_stream</module>
     </modules>
 </project>

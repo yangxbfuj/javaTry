@@ -1,3 +1,5 @@
+package com.yxb.ch14;
+
 import java.util.Random;
 
 public class Randoms {

@@ -1,7 +1,5 @@
 package com.yxb.ch14.s2_create;
 
-import java.util.function.*;
-
 public class Bubble {
 	
 	public final int i;

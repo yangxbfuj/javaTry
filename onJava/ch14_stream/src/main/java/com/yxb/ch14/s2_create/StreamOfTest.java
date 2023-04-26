@@ -1,3 +1,5 @@
+package com.yxb.ch14.s2_create;
+
 import java.util.stream.Stream;
 import java.util.*;
 

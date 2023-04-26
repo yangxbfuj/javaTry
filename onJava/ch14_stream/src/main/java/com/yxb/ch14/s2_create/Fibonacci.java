@@ -9,8 +9,7 @@ public class Fibonacci {
 			int result = x + i;
 			x = i;
 			return result;
-		})
-
+		});
 	}
 
 	public static void main(String[] args){
