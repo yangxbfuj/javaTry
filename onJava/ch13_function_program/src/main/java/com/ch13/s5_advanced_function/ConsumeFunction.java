@@ -1,3 +1,5 @@
+package com.ch13.s5_advanced_function;
+
 import java.util.function.Function;
 
 public class ConsumeFunction {
@@ -17,8 +19,6 @@ public class ConsumeFunction {
 	static Two consume(Function<One,Two> one2Two){
 		return one2Two.apply(new One());
 	}
-
-	static Function<
 
 	public static void main(String[] args){
 		Two two = consume(one -> new Two());

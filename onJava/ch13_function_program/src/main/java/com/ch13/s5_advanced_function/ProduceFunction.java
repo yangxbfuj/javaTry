@@ -3,10 +3,10 @@ package com.ch13.s5;
 import java.util.function.Function;
 
 /**
- * @ClassName AdvancedFuction
- * @Description TODO
- * @Author 杨学彬
- * @Date 2023/4/25 08:52
+ * {@code @ClassName} AdvancedFunction
+ * {@code @Description} TODO
+ * {@code @Author} 杨学彬
+ * {@code @Date} 2023/4/25 08:52
  */
 public class ProduceFunction {
     interface FuncSS extends Function<String, String> {

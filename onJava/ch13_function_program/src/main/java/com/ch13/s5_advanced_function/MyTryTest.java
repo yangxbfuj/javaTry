@@ -1,3 +1,5 @@
+package com.ch13.s5_advanced_function;
+
 import java.util.function.Function;
 
 public class MyTryTest{

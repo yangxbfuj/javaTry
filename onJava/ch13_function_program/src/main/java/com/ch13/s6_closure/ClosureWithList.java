@@ -1,3 +1,5 @@
+package com.ch13.s6_closure;
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.function.Supplier;

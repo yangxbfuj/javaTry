@@ -1,3 +1,5 @@
+package com.ch13.s6_closure;
+
 import java.util.function.IntSupplier;
 
 public class Closure2 {

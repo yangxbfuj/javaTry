@@ -1,3 +1,5 @@
+package com.ch13.s7_function_combine;
+
 import java.util.function.Predicate;
 import java.util.stream.Stream;
 

@@ -1,3 +1,5 @@
+package com.ch13.s8_currying;
+
 import java.util.function.*;
 public class Curry3Args {
 	public static void main(String[] args){
