@@ -5,16 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.yxb</groupId>
-        <artifactId>YxbStudy</artifactId>
+        <artifactId>onJava</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <packaging>pom</packaging>
-    <artifactId>onJava</artifactId>
-    <modules>
-        <module>ch11_inner_class</module>
-        <module>ch12_collection</module>
-        <module>ch13_function_program</module>
-        <module>ch14_stream</module>
-        <module>ch15_exception</module>
-    </modules>
+
+    <artifactId>ch15_exception</artifactId>
+
+    <properties>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
 </project>
